@@ -4,6 +4,7 @@ This repository contains basic Java programs for QA Automation interview prepara
 
 ## 📌 Topics Covered
 - Arrays
+- Strings
 
 ## 💻 Programs Implemented
 - Find Maximum Number in an Array
